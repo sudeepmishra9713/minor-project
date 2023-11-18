@@ -14,11 +14,13 @@ function Footer() {
                     <BsFacebook/>
                 </a>
                 <a className='hover:text-yellow-500 transition-all ease-in-out duration-300'>
-                <BsInstagram/>
+                  <BsInstagram/>
                 </a>
-                <a className='hover:text-yellow-500 transition-all ease-in-out duration-300'><BsLinkedin/></a>
                 <a className='hover:text-yellow-500 transition-all ease-in-out duration-300'>
-                <BsTwitter/>
+                    <BsLinkedin/>
+                </a>
+                <a className='hover:text-yellow-500 transition-all ease-in-out duration-300'>
+                  <BsTwitter/>
                 </a>
             </section>
 
